@@ -4,6 +4,7 @@ A simple batch script to quickly set up Git repositories for projects with prope
 
 ## Type 🔷
 
+- Basic Git Setup [Custom]
 - Unity Git Setup
 
 ## Features ✨
