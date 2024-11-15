@@ -2,6 +2,10 @@
 
 A simple batch script to quickly set up Git repositories for projects with proper `.gitignore` configurations.
 
+## Type 🔷
+
+- Unity Git Setup
+
 ## Features ✨
 
 - Automatically creates appropriate `.gitignore` for projects
