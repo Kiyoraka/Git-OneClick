@@ -6,6 +6,7 @@ A simple batch script to quickly set up Git repositories for projects with prope
 
 - Basic Git Setup [Custom]
 - Unity Git Setup
+- Xampp Git Setup
 
 ## Features ✨
 
