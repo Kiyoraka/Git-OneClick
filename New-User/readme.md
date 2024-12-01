@@ -1,4 +1,4 @@
-# Enhanced Git Setup Script
+# New User Git Setup Script
 
 A beginner-friendly batch script to help students and new GitHub users set up their first repository and start working with Git.
 
